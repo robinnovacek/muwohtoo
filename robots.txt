@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quohkophea.hasanyavuz.ca/sitemap.xml
